@@ -11,12 +11,13 @@ Instagram Unfollower Checker adalah sebuah alat yang membantu Anda untuk memerik
 
 ## Instalasi
 1. Clone repository ini ke local machine Anda
-2. Copy file download `following.json` dan `followers_1.json` ke folder data
+2. Copy file download dari instagram `following.json` dan `followers_1.json` lalu paste ke folder data
 3. Install dependencies dengan menjalankan perintah `npm install`
-4. compile typescript dengan menjalankan perintah `tsc`
+4. compile typescript dengan menjalankan perintah `npm tsc`
 5. jalankan program dengan menjalankan perintah `npm start`
 
 
 ## Kolaborasi
 Jika Anda ingin berkontribusi pada proyek ini, silakan fork repository ini dan buatkan pull request.
+Atau bisa hubungi saya di instagram [@faleh_jamaluddin](https://www.instagram.com/faleh_jamaluddin)
 
